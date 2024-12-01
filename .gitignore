@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*.csv
-*.xml
+Amazon Sale Report.csv
+website_logs.xml
 # C extensions
 *.so
 
